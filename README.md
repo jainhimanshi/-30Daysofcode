@@ -1,2 +1,1 @@
-# Hackerearth
-Practice problem solution
+# Hackerrank
